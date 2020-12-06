@@ -1,1 +1,1 @@
-Thinkful React assignment - Trelloyes
+Thinkful React - Trelloyes
